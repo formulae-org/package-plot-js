@@ -1,0 +1,52 @@
+{
+	"pathPlot" : "Gráficas de funciones matemáticas",
+
+	"childrenPlot" : [ "Funciones a graficar", "Opciones" ],
+	
+	"name2DFunctionCurvePlot"     : "Curva cartesiana 2D",
+	"mnemonic2DFunctionCurvePlot" : "CurvaCartesiana2D",
+	"leaf2DFunctionCurvePlot"     : "Curva cartesiana 2D",
+	
+	"name2DParametricCurvePlot"     : "Curva paramétrica 2D",
+	"mnemonic2DParametricCurvePlot" : "CurvaParamétrica2D",
+	"leaf2DParametricCurvePlot"     : "Curva paramétrica 2D",
+	
+	"name2DPolarCurvePlot"     : "Curva Polar 2D",
+	"mnemonic2DPolarCurvePlot" : "CurvaPolar2D",
+	"leaf2DPolarCurvePlot"     : "Curva Polar 2D",
+	
+	"nameSurfaceMapPlot"     : "Mapa 2D de Superficie",
+	"mnemonicSurfaceMapPlot" : "MapaSuperficie",
+	"leafSurfaceMapPlot"     : "Mapa 2D de Superficie",
+	
+	"nameSurfaceContourPlot"     : "Contorno 2D de superficie",
+	"mnemonicSurfaceContourPlot" : "ContornoSuperficie",
+	"leafSurfaceContourPlot"     : "Contorno 2D de superficie",
+	
+	"name3DFunctionSurfacePlot"     : "Superficie cartesiana 3D",
+	"mnemonic3DFunctionSurfacePlot" : "SuperficieCartesiana3D",
+	"leaf3DFunctionSurfacePlot"     : "Superficie cartesiana 3D",
+	
+	"name3DParametricCurvePlot"     : "Curva paramétrica 3D",
+	"mnemonic3DParametricCurvePlot" : "CurvaParamétrica3D",
+	"leaf3DParametricCurvePlot"     : "Curva paramétrica 3D",
+	
+	"name3DParametricSurfacePlot"     : "Superficie paramétrica 3D",
+	"mnemonic3DParametricSurfacePlot" : "SuperficieParamétrica3D",
+	"leaf3DParametricSurfacePlot"     : "Superficie paramétrica 3D",
+
+	"pathSurfaceType" : "Gráficas de funciones matemáticas.Tipo de superficie",
+
+	"namePalette"    : "Tipo de superficie paleta de colores",
+	"literalPalette" : "Paleta",
+	"leafPalette"    : "Paleta",
+
+	"nameWireframe"    : "Tipo de superficie de malla de alambre",
+	"literalWireframe" : "Malla",
+	"leafWireframe"    : "Malla",
+
+	"nameWireframeHidden"    : "Tipo de superficie malla de alaambre con ocultamiento",
+	"literalWireframeHidden" : "Malla con ocultamiento",
+	"leafWireframeHidden"    : "Malla con ocultamiento"
+}
+

@@ -1,0 +1,52 @@
+{
+	"pathPlot" : "Plot",
+
+	"childrenPlot" : [ "Functions(s) to plot", "Options" ],
+	
+	"name2DFunctionCurvePlot"     : "2D function curve plot",
+	"mnemonic2DFunctionCurvePlot" : "2DFunctionCurvePlot",
+	"leaf2DFunctionCurvePlot"     : "2D function curve",
+	
+	"name2DParametricCurvePlot"     : "2D parametric curve plot",
+	"mnemonic2DParametricCurvePlot" : "2DParametricCurvePlot",
+	"leaf2DParametricCurvePlot"     : "2D parametric curve",
+	
+	"name2DPolarCurvePlot"     : "2D polar curve plot",
+	"mnemonic2DPolarCurvePlot" : "2DPolarCurvePlot",
+	"leaf2DPolarCurvePlot"     : "2D polar curve",
+	
+	"nameSurfaceMapPlot"     : "Surface map plot",
+	"mnemonicSurfaceMapPlot" : "SurfaceMapPlot",
+	"leafSurfaceMapPlot"     : "Surface map",
+	
+	"nameSurfaceContourPlot"     : "Surface contour plot",
+	"mnemonicSurfaceContourPlot" : "SurfaceContourPlot",
+	"leafSurfaceContourPlot"     : "Surface contour",
+	
+	"name3DFunctionSurfacePlot"     : "3D function surface plot",
+	"mnemonic3DFunctionSurfacePlot" : "3DFunctionSurfacePlot",
+	"leaf3DFunctionSurfacePlot"     : "3D function surface",
+	
+	"name3DParametricCurvePlot"     : "3D parametric curve plot",
+	"mnemonic3DParametricCurvePlot" : "3DParametricCurvePlot",
+	"leaf3DParametricCurvePlot"     : "3D parametric curve",
+	
+	"name3DParametricSurfacePlot"     : "3D parametric surface plot",
+	"mnemonic3DParametricSurfacePlot" : "3DParametricSurfacePlot",
+	"leaf3DParametricSurfacePlot"     : "3D parametric surface",
+
+	"pathSurfaceType" : "Plot.Surface type",
+
+	"namePalette"    : "Palette surface type",
+	"literalPalette" : "Palette",
+	"leafPalette"    : "Palette",
+
+	"nameWireframe"    : "Wireframe surface type",
+	"literalWireframe" : "Wireframe",
+	"leafWireframe"    : "Wireframe",
+
+	"nameWireframeHidden"    : "Wireframe hidden surface type",
+	"literalWireframeHidden" : "Wireframe hidden",
+	"leafWireframeHidden"    : "Wireframe hidden"
+}
+
