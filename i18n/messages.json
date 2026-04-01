@@ -1,7 +1,7 @@
 {
 	"pathPlot" : "Plot",
 
-	"childrenPlot" : [ "Functions(s) to plot", "Options" ],
+	"childrenPlot" : [ "Function(s) to plot", "Options" ],
 	
 	"name2DFunctionCurvePlot"     : "2D function curve plot",
 	"mnemonic2DFunctionCurvePlot" : "2DFunctionCurvePlot",

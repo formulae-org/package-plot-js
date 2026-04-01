@@ -45,7 +45,7 @@
 	"literalWireframe" : "Malla",
 	"leafWireframe"    : "Malla",
 
-	"nameWireframeHidden"    : "Tipo de superficie malla de alaambre con ocultamiento",
+	"nameWireframeHidden"    : "Tipo de superficie malla de alambre con ocultamiento",
 	"literalWireframeHidden" : "Malla con ocultamiento",
 	"leafWireframeHidden"    : "Malla con ocultamiento"
 }
